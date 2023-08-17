@@ -37,12 +37,12 @@ variable "machine_type" {
 }
 
 variable "height" {
-  default     = "800"
+  default     = "400"
   description = "Image height in pixels."
 }
 
 variable "width" {
-  default     = "1200"
+  default     = "800"
   description = "Image width in pixels."
 }
 
